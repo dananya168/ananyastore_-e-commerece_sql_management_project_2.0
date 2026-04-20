@@ -10,8 +10,8 @@ This project is a sample e-commerce store database created using SQL.
 ## Database Tables
 - Customers
 - Products
-- Orders
-- Order Items
+- Orders1
+- Order Item
 - Payments
 
 ## Purpose
